@@ -3,15 +3,14 @@ Huddle landing page with flexbox and responsive design
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./huddle-desktop-jpg.jpg)
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/DoDoingDone/Huddle-landing-page-single
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -31,7 +30,6 @@ I'm picking up more on flexbox, and css in general.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
