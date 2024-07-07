@@ -11,7 +11,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/DoDoingDone/Huddle-landing-page-single
-- Live Site URL://dodoingdone.github.io/Huddle-landing-page-single/
+- Live Site URL: https://dodoingdone.github.io/Huddle-landing-page-single/
 
 ## My process
 
